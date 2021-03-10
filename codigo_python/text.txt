@@ -1,0 +1,1 @@
+Nesta pasta encontra-se o código completo desta aplicação, o arquivo contendo o script é denominado "calculadora.py".
