@@ -49,7 +49,7 @@ def divisao(arg01, arg02):
         return arg01/arg02
 
 ```
-Por fim, e não menos importante, é a interação referente aos passos anteriores escolhidos pelo usuário. Esta operação retornará os valores de entrada e executará a função defenida no passo anterior. Caso algum número seja escolhido no passo anterior que não esteja contemplado em nossas funções, uma mensagem de valor inválido é apresentada.
+Por fim, e não menos importante, é a interação referente aos passos anteriores escolhidos pelo usuário. Esta operação retornará os valores de entrada e executará a função definida no passo anterior. Caso algum número seja escolhido no passo anterior que não esteja contemplado em nossas funções, uma mensagem de valor inválido é apresentada.
 
 ```python
 # Seleciona o modo que foi escolhido, ou seja, soma, subtração, multiplicacao ou divisao;
